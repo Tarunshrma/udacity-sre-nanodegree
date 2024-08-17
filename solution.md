@@ -21,3 +21,4 @@ Port forward to open the Grafana dashboard:
 
 **Install the Blackbox Exporter**
  `helm install prometheus-blackbox prometheus-community/prometheus-blackbox-exporter -f blackbox-values.yaml --namespace monitoring`
+ helm install prometheus-blackbox-exporter prometheus-community/prometheus-blackbox-exporter -f blackbox-values.yaml --namespace monitoring
