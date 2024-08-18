@@ -114,7 +114,7 @@ config:
         - 200
         # - 401
         # - 403
-        bearer_token: RQS6R14STJ6IIIS9CLIQ5X0I40JQFAC8QVAPM8IYQUOIVQ0MJK
+        bearer_token: RSMHJ30JFKPWL9B67KHNAMPFROO77R8CXCOALX5YPMBQSQ7X8J
 # Set custom config path, other than default /config/blackbox.yaml. If let empty, path will be "/config/blackbox.yaml"
 # configPath: "/foo/bar"
 
